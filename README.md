@@ -6,7 +6,7 @@ Implementation of The possibility of heart disease with gaussian naive bayes alg
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/The-possibility-of-heart-disease-with-gaussian-naive-bayes-algorithm/raw/main/Documentation.pdf)
 
 
 ## Features
