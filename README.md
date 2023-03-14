@@ -18,4 +18,4 @@ You can see the description of the implementation method in the following file:
 
 ## Dataset Features
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/kiananvari/The-possibility-of-heart-disease-with-gaussian-naive-bayes-algorithm/raw/main/Features.png))
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/The-possibility-of-heart-disease-with-gaussian-naive-bayes-algorithm/main/Features.png)
